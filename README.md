@@ -123,3 +123,9 @@ http://localhost:8080/weather?city=Delhi
 =======
 # Weather-API-Proxy
 >>>>>>> 48241e7f4b3e22b48d4b949945fada71461df401
+>>>>>>> <img width="603" height="296" alt="Screenshot 2026-07-14 at 12 51 40 PM" src="https://github.com/user-
+          <img width="764" height="357" alt="Screenshot 2026-07-14 at 12 51 50 PM" src="https://github.com/user-attachments/assets/deeeaa97-6e6e-4374-a052-99dffd006843" />
+attachments/assets/a371ccbc-602b-4750-be24-8033473029b1" />
+>>>>>>> <img width="818" height="312" alt="Screenshot 2026-07-14 at 12 52 02 PM" src="https://github.com/user-attachments/assets/1cf20828-2cc1-431e-a379-1a044647bf71" />
+
+
