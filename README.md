@@ -133,13 +133,22 @@ http://localhost:8080/weather?city=Delhi
 
 
 
-#Screenshots
->>>>>>> 48241e7f4b3e22b48d4b949945fada71461df401
->>>>>>><img width="603" height="296" alt="Screenshot 2026-07-14 at 12 51 40 PM" src="https://github.com/user-attachments/assets/ba207094-0e37-4b36-a397-eab0e3280358" />
 
->>>>>>> <img width="603" height="296" alt="Screenshot 2026-07-14 at 12 51 40 PM" src="https://github.com/user-
-          <img width="764" height="357" alt="Screenshot 2026-07-14 at 12 51 50 PM" src="https://github.com/user-attachments/assets/deeeaa97-6e6e-4374-a052-99dffd006843" />
-attachments/assets/a371ccbc-602b-4750-be24-8033473029b1" />
->>>>>>> <img width="818" height="312" alt="Screenshot 2026-07-14 at 12 52 02 PM" src="https://github.com/user-attachments/assets/1cf20828-2cc1-431e-a379-1a044647bf71" />
+## Screenshots
+
+### Home Endpoint
+
+<img width="719" height="686" alt="Screenshot 2026-07-14 at 1 32 59 PM" src="https://github.com/user-attachments/assets/33c3646b-a6bd-4e3e-b87e-67820af1b23c" />
+
+
+### Weather API Response
+
+<img width="710" height="612" alt="Screenshot 2026-07-14 at 1 44 38 PM" src="https://github.com/user-attachments/assets/bdd7f803-cb03-4df0-83c7-670ce10d9456" />
+
+
+### Invalid City Response
+
+<img width="712" height="617" alt="Screenshot 2026-07-14 at 1 46 38 PM" src="https://github.com/user-attachments/assets/1d021c06-162a-45bb-8419-cb055b97c5dc" />
+
 
 
